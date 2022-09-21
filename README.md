@@ -1,5 +1,5 @@
-#FSA_Final_Project
-Fullstack Academy Final Project
+#FSA_Capstone_Project
+Fullstack Academy Capstone Achievement
 
 Capstone project for Fullstack Academy Cybersecurity course.
 In summery, we devised a mock spear phishing campaign.
