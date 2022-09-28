@@ -14,8 +14,8 @@ The contents of the repository are as follows:<br>
 ~ Operation Ahab.pdf is the pdf we used in giving the presentation.<br>
 ~ README is this file.<br>
 ~ Index.html is the html script I used as a spoof site. Original code 'borrowed' from: https://www.lostlandsfestival.com/ (I expect aspects of the spoof site will break when the original is modified or is taken down.)<br>
-~ sample.txt is a token file that replaced the malicious file we used in the demo.<br>
+~ sample.txt is a token file that replaced the malicious file we used in the demo.<br></br>
 
-Reminder: This repository is for informational/demonstration purposes only. Do not attempt to perform or imitate.<br></br>
+Reminder: This repository is for informational/demonstration purposes only. Do not attempt to perform or imitate.<br>
 
 Project creators are: Talen Flippo, George Kell, Tristan Khim, Brandon OLeary, and Rodney Ramirez.
