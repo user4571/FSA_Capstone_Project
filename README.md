@@ -2,7 +2,11 @@
 Fullstack Academy Capstone Achievement
 
 Capstone project for Fullstack Academy Cybersecurity course.
-In summery, we devised a mock spear phishing campaign.
+•	Designed a test spear-phishing attack aimed a specific individual. 
+•	Conducted OSIT operations to determine the best attack vector to convince the target to click on a malicious link
+•	Created a malicious web page to mimic a legitimate web site with malicious download embedded in a link
+•	Wrote malware to encrypt the victim’s file system when executed
+
 NOTE: This project is for demo purposes only and never implemented, nor was it ever intended to be implimented, in the wild.
 
 The main file in this repository is the video presentation my team gave explaining what we did and how we did it.
