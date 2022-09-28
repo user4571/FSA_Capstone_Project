@@ -1,4 +1,4 @@
-FSA_Capstone_Project<br></br>
+FSA_Capstone_Project
 Fullstack Academy Capstone Achievement<br></br>
 
 This is a capstone project for Fullstack Academy Cybersecurity course. The project consisted of the following:<br></br>
