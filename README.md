@@ -1,8 +1,8 @@
 #FSA_Capstone_Project
 Fullstack Academy Capstone Achievement
 
-This is a capstone project for Fullstack Academy Cybersecurity course. The project consisted of the following:
-•	Design a test spear-phishing attack aimed a specific individual. 
+This is a capstone project for Fullstack Academy Cybersecurity course. The project consisted of the following:;
+•	Design a test spear-phishing attack aimed a specific individual.;
 •	Conduct OSIT operations to determine the best attack vector to convince the target to click on a malicious link
 •	Create a malicious web page to mimic a legitimate web site with malicious download embedded in a link
 •	Write malware to encrypt the victim’s file system when executed
